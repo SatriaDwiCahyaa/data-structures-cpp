@@ -14,18 +14,18 @@ Repository ini mendokumentasikan pembelajaran, latihan, dan tugas terkait **Stru
 
 ## 🛠 Tech Stack
 - **C++**
-- Compiler: `g++`, `clang++`, atau sesuai kebutuhan
-- IDE/Editor: VS Code, Code::Blocks, atau lainnya
+- Compiler: `g++`
+- IDE/Editor: VS Code
 
 ---
 
 ## 📂 Struktur
-data-structures-cpp/
-├── materi/ # Contoh kode & pembahasan
-├── tugas/ # Tugas per modul/pertemuan
-├── latihan/ # Latihan & eksperimen
-├── assets/ # Diagram & file pendukung
-└── README.md
+data-structures-cpp/<br>
+├── materi/ # Contoh kode & pembahasan<br>
+├── tugas/ # Tugas per modul/pertemuan<br>
+├── latihan/ # Latihan & eksperimen<br>
+├── assets/ # Diagram & file pendukung<br>
+└── README.md<br>
 
 
 ---
