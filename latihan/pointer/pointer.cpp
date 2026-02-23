@@ -8,7 +8,7 @@ void print(T teks){
 }
 
 
-int main(){
+int main(){ 
     string nama = "Satria";
 
     print(nama);
